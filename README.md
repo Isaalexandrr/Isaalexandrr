@@ -1,31 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d42d72&height=120&section=header"/>
+# 👋 Olá! Eu sou a Isabela Alexandre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d42d72&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Isabela+Alexandre!:%29)](https://git.io/typing-svg)
+🎯 **Desenvolvedora Frontend Júnior**  
+💻 Especializada em **Angular** e **React**  
+🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades  
+🚀 Buscando colaborar em projetos desafiadores e inovadores  
 
+---
 
-<div align="center">
-  <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592736079335515/gabs-anime.gif?ex=658c88f4&is=657a13f4&hm=9015c55b276905670a18d2cfd5666af7a5582686ad44f8e837a020aec162e05a&" />
-</div> 
+## 🛠 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
-<div style="width:100%;  display: flex; flex-flow: row wrap;" >  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=isaalexandrr&theme=github-dark-blue&stroke=d42d72&border=d42d72&fire=d42d72&ring=d42d72&sideNums=d42d72">&nbsp;&nbsp;
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaalexandrr&layout=compact&hide_border=false&border_color=d42d72&title_color=d42d72&text_color=ff91a4&bg_color=0d1117" />
-  </p>
- 
-</div>
+---
 
+## 📊 Estatísticas no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaalexandrr&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaalexandrr&layout=compact&theme=dracula)
 
-### Tecnologias que ultilizo:
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=Red&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+---
 
-### Contatos:
-<div>
-<a href="https://www.instagram.com/isaalexandrr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:isabelaalexandre8@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isabela-alexandre-4069a1272/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabela-alexandre)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
+---
 
+✨ _"Transformando ideias em experiências digitais."_
