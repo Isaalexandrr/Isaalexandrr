@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a Isabela Alexandre
 
 🎯 **Desenvolvedora Frontend Júnior**  
-💻 Especializada em **Angular** e **React**  
+💻 Aprendendo **Angular** e **React**  
 🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades  
 🚀 Buscando colaborar em projetos desafiadores e inovadores  
 
