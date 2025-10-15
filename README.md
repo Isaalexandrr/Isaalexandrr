@@ -16,16 +16,25 @@
 ---
 
 ## 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaalexandrr&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaalexandrr&layout=compact&theme=dracula)
 
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabela-alexandre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-alexandre-moura/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaalexandrr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelaalexandre8@gmail.com)
 
 ---
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+</picture>
+  
+</div>
 
 ✨ _"Transformando ideias em experiências digitais."_
